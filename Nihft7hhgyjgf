@@ -1,0 +1,9 @@
+{
+  "valid_keys": [
+    "USER_KEY_123",
+    "VIP_KEY_456",
+    "TEST_KEY_789"
+  ],
+  "aob_pattern": "FF 83 02 D1",
+  "patch_bytes": [192, 3, 95, 214]
+}
